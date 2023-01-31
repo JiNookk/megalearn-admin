@@ -2,7 +2,6 @@ import { Route, Routes } from 'react-router-dom';
 import { ThemeProvider } from 'styled-components';
 import { Reset } from 'styled-reset';
 import Header from './components/Header';
-import HomePage from './pages/HomePage';
 import defaultTheme from './styles/defaultTheme';
 import GlobalStyle from './styles/GlobalStyle';
 import CourseApprovePage from './pages/CourseApprovePage';
@@ -16,7 +15,7 @@ export default function App() {
       <GlobalStyle />
       <Header />
       <Routes>
-        <Route path="/" element={<HomePage />} />
+        <Route path="/" element={<CourseApprovePage />} />
         <Route path="/courses" element={<CourseApprovePage />} />
         <Route path="/categories" element={<CategoryPage />} />
         <Route path="/skill-tags" element={<SkillTagPage />} />
