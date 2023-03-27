@@ -38,3 +38,13 @@ Flux Architecture를 참고했습니다.
 1. View - Action
 2. Dispatcher
 3. Store
+
+<br>
+
+## 어드민 서비스
+
+서비스 정책을 관리할 수 있는 관리자 페이지를 따로 생성했습니다. 
+
+민감한 정보를 어드민 서비스로 분리해서 웹 서비스가 보다 원활하게 운영할 수 있도록 구성했습니다.
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dfa190fe-0feb-47d3-b66d-af1d3d834d58/Untitled.png)
