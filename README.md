@@ -47,4 +47,5 @@ Flux Architecture를 참고했습니다.
 
 민감한 정보를 어드민 서비스로 분리해서 웹 서비스가 보다 원활하게 운영할 수 있도록 구성했습니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dfa190fe-0feb-47d3-b66d-af1d3d834d58/Untitled.png)
+<img width="1440" alt="스크린샷 2023-02-24 오후 2 51 02" src="https://user-images.githubusercontent.com/82752544/227882888-88d726c7-6556-4eb4-a937-33c09d240d65.png">
+
